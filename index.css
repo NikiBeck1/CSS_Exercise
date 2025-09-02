@@ -17,6 +17,11 @@ main {
 
 }
 
+#title {
+    font-weight: 800;
+    font-size: 40px;
+}
+
 section {
     margin-top: 24px;
     margin-bottom: 24px;
